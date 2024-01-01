@@ -1,1 +1,1 @@
-print ("Hello World")
+print ("Najlepszy skecz grupy Monty Pythona")
